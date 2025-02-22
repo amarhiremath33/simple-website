@@ -1,2 +1,2 @@
 # simple-website
-simple-website project
+simple-website project is a first demo project by Amar
